@@ -1,0 +1,9 @@
+# Google Ads API Configuration
+# Copy this file to google-ads.yaml and fill in your credentials
+
+developer_token: "YOUR_DEVELOPER_TOKEN"
+client_id: "YOUR_CLIENT_ID.apps.googleusercontent.com"
+client_secret: "YOUR_CLIENT_SECRET"
+refresh_token: "YOUR_REFRESH_TOKEN"
+login_customer_id: "YOUR_MCC_CUSTOMER_ID_WITHOUT_HYPHENS"
+use_proto_plus: True
